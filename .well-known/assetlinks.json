@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "edu.temple.dmhelper",
+    "sha256_cert_fingerprints":
+    ["3B:6D:55:DD:CC:7B:B1:FB:B3:F1:C8:50:8B:AE:AC:84:CF:09:87:B3:7C:66:30:D8:BB:98:7C:C6:18:D3:B3:6A"]
+  }
+}]
